@@ -1,1 +1,0 @@
-THIS folder is for Python Searching Algorithms.
