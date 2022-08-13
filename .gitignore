@@ -24,3 +24,7 @@
 *.rar
 
 *.xml
+
+.idea/.gitignore
+
+*.iml

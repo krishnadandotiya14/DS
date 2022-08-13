@@ -1,0 +1,1 @@
+This directory has problems related to sliding window technique.
